@@ -30,3 +30,15 @@ The recent exponential growth of e-Commerce has made accurately predicting onlin
 
 [View on IEEE Xplore](https://ieeexplore.ieee.org/document/11341119)
 [Implementation](https://github.com/Nikhitha-411358/Machine-Learning/blob/main/ML_intial_code.ipynb?short_path=ee8ca09)
+
+### 🔹 Paper 3 — AI-Driven Renewable-Aware Load Balancing in Hybrid Edge-Cloud Environment
+
+Conference: SmartCom2026 
+Year: 2026  
+Authors: Tirupathi Nikhitha, S.Sai Sameer, Beena B.M.
+
+**Abstract:**  
+With the rapid increasing of edge and cloud computing, efficient load balancing has become critical for ensuring optimal resource utilization and energy efficiency. This paper presents an AI-driven renewable-aware load balancing framework for hybrid edge-cloud environments. The proposed approach leverages Ant Colony Optimization (ACO) and Particle Swarm Optimization (PSO) algorithms to dynamically distributed computational workloads while prioritizing renewable energy utilization. Simulation results demonstrate that the framework improves system performance by reducing latency, enhancing throughput, and increasing renewable energy consumption compared to conventional load balancing strategies. This work highlights the potential of combining AI optimization techniques with renewable-aware policies to achieve sustainable, high-performance computing in hybrid edge-cloud architectures.
+
+[View on Springer](https://link.springer.com/chapter/10.1007/978-3-032-27754-1_27)
+
